@@ -4,7 +4,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 
 ## Statistics
 
-- **✅LeetCode:** 6 problems
+- **✅LeetCode:** 7 problems
 
 ---
 
@@ -14,6 +14,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | ---- | ------------------------------------------------------------------------------- | ---------- | ------------------------------------------------ | -------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                               | Easy       | [Go](./solutions/0001_two_sum.go)                | $O(n)$         |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Easy       | [Go](./solutions/0014_longest_common_prefix.go)  | $O(n \cdot k)$ |
+| 0027 | [Longest Common Prefix](https://leetcode.com/problems/remove-element/)          | Easy       | [Go](./solutions/0027_remove_element.go)         | $O(n)$         |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                 | Medium     | [Go](./solutions/0049_group_anagrams.go)         | $O(n \cdot k)$ |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | Easy       | [Go](./solutions/0217_contains_duplicate.go)     | $O(n \log n)$  |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   | Easy       | [Go](./solutions/0242_valid_anagram.go)          | $O(n)$         |

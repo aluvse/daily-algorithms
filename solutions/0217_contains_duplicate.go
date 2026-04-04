@@ -1,15 +1,13 @@
 package main
 
-import "sort"
-
 func containsDuplicate(nums []int) bool {
-	sort.Ints(nums)
+	seen := make(map[int]struct{}, len(nums))
 
-	for i := 0; i < len(nums)-1; i++ {
-		if nums[i] == nums[i+1] {
+	for _, x := range nums {
+		if _, exists := seen[x]; exists {
 			return true
 		}
+		seen[x] = struct{}{}
 	}
-
 	return false
 }

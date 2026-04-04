@@ -19,7 +19,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                 | Easy       | [Go](./solutions/0027_remove_element.go)         | $O(n)$         | $O(1)$         |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                 | Medium     | [Go](./solutions/0049_group_anagrams.go)         | $O(n \cdot k)$ | $O(n \cdot k)$ |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)             | Easy       | [Go](./solutions/0169_majority_element.go)       | $O(n)$         | $O(1)$         |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | Easy       | [Go](./solutions/0217_contains_duplicate.go)     | $O(n \log n)$  | $O(1)$         |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | Easy       | [Go](./solutions/0217_contains_duplicate.go)     | $O(n)$         | $O(n)$         |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   | Easy       | [Go](./solutions/0242_valid_anagram.go)          | $O(n)$         | $O(k)$         |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy       | [Go](./solutions/1929_concatenation_of_array.go) | $O(n)$         | $O(n)$         |
 

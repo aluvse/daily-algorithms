@@ -1,4 +1,6 @@
-# Code Practice
+# Daily Algorithms
+
+![Party Gopher](./assets/party-gopher.gif)
 
 A repository dedicated to daily algorithm problem-solving and computer science fundamentals.
 

@@ -21,6 +21,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)             | Easy       | [Go](./solutions/0169_majority_element.go)       | $O(n)$         | $O(1)$         |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | Easy       | [Go](./solutions/0217_contains_duplicate.go)     | $O(n)$         | $O(n)$         |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   | Easy       | [Go](./solutions/0242_valid_anagram.go)          | $O(n)$         | $O(k)$         |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset)                  | Easy       | [Go](./solutions/0705_valid_anagram.go)          | $O(1)$         | $O(M)$         |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy       | [Go](./solutions/1929_concatenation_of_array.go) | $O(n)$         | $O(n)$         |
 
 ---

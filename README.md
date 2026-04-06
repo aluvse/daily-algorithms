@@ -1,6 +1,6 @@
 # Daily Algorithms
 
-![Party Gopher](./assets/party-gopher.gif)
+![Party Gopher](./assets/main.gif)
 
 A repository dedicated to daily algorithm problem-solving and computer science fundamentals.
 

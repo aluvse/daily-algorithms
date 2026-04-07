@@ -23,7 +23,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   | Easy       | [Go](./solutions/0242_valid_anagram/main.go)          | $O(n)$              | $O(k)$         |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset)                  | Easy       | [Go](./solutions/0705_design_hashset/main.go)         | $O(1)$              | $O(M)$         |
 | 0706 | [Design HashSet](https://leetcode.com/problems/design-hashmap)                  | Easy       | [Go](./solutions/0706_design_hashmap/main.go)         | $O(1)$              | $O(M)$         |
-| 0912 | [Design HashSet](https://leetcode.com/problems/sort-an-array/)                  | medium     | [Go](./solutions/0912_sort_an_array/main.go)          | $O(n \cdot \log n)$ | $O(n)$         |
+| 0912 | [Design HashSet](https://leetcode.com/problems/sort-an-array/)                  | medium     | [Go](./solutions/0912_sort_an_array/main.go)          | $O(n \cdot \log \ n)$ | $O(n)$         |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy       | [Go](./solutions/1929_concatenation_of_array/main.go) | $O(n)$              | $O(n)$         |
 
 ---

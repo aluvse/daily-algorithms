@@ -6,7 +6,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 
 ## Statistics
 
-- **✅LeetCode:** 8 problems
+- **✅LeetCode:** 11 problems
 
 ---
 

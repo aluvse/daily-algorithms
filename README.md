@@ -6,7 +6,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 
 ## Statistics
 
-- **✅LeetCode:** 11 problems
+- **✅LeetCode:** 12 problems
 
 ---
 
@@ -18,6 +18,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Easy       | [Go](./solutions/0014_longest_common_prefix/main.go)  | $O(n \cdot k)$        | $O(1)$         |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                 | Easy       | [Go](./solutions/0027_remove_element/main.go)         | $O(n)$                | $O(1)$         |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                 | Medium     | [Go](./solutions/0049_group_anagrams/main.go)         | $O(n \cdot k)$        | $O(n \cdot k)$ |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                       | Medium     | [Go](./solutions/0075_sort_colors/main.go)            | $O(n)$                | $O(1)$         |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)             | Easy       | [Go](./solutions/0169_majority_element/main.go)       | $O(n)$                | $O(1)$         |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | Easy       | [Go](./solutions/0217_contains_duplicate/main.go)     | $O(n)$                | $O(n)$         |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   | Easy       | [Go](./solutions/0242_valid_anagram/main.go)          | $O(n)$                | $O(k)$         |

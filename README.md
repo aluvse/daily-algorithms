@@ -6,7 +6,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 
 ## Statistics
 
-- **✅LeetCode:** 14 problems
+- **✅LeetCode:** 16 problems
 
 ---
 
@@ -15,6 +15,7 @@ A repository dedicated to daily algorithm problem-solving and computer science f
 | \#   | Title                                                                                  | Difficulty | Solution                                                    | Time                  | Space          |
 | :--- | :------------------------------------------------------------------------------------- | :--------- | :---------------------------------------------------------- | :-------------------- | :------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                      | Easy       | [Go](./solutions/0001_two_sum/main.go)                      | $O(n)$                | $O(n)$         |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                  | Easy       | [Go](./solutions/0009_palindrome_number/main.go)            | $O(\log_{10}(n))$     | $O(1)$         |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)          | Easy       | [Go](./solutions/0014_longest_common_prefix/main.go)        | $O(n \cdot k)$        | $O(1)$         |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                        | Easy       | [Go](./solutions/0027_remove_element/main.go)               | $O(n)$                | $O(1)$         |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                        | Medium     | [Go](./solutions/0049_group_anagrams/main.go)               | $O(n \cdot k)$        | $O(n \cdot k)$ |

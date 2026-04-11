@@ -1,8 +1,8 @@
-# Daily Algorithms
+# Golang Algorithms
 
 ![Party Gopher](./assets/main.gif)
 
-A repository dedicated to daily algorithm problem-solving and computer science fundamentals.
+A repository dedicated to algorithm problem-solving and computer science fundamentals.
 
 ## Statistics
 
